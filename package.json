@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.2"
+  },
+  "name": "slash_command_package_v14-for-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
