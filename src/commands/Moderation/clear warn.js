@@ -23,7 +23,14 @@ module.exports = {
     const embed = new EmbedBuilder()
     .setColor("Green")
     .setDescription (` :white_check_mark: ${member.tag} now has **${afwarns}** warn(s) `)
+    
+    const dmEmbed = new EmbedBuilder()
+    .setColor("Green")
+    .setDescription (` :white_check: You have been **warns** have been cleared in ${interaction.guild.name} | you now have **${afwarns}** warn(s) `)
 
     await interaction.reply({embeds: [embed] });
+     await interaction.reply({embeds: [dmEmbed] }).catch(err => {
+      return;
+    })
     }
   }
