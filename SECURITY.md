@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
+which versions of your project are
 currently being supported with security updates.
 
 | Version | Supported          |
@@ -15,6 +15,6 @@ currently being supported with security updates.
 ## Reporting a Vulnerability
 So if theres any vulnerability please put it in issues on github
 
-## Known vulnerability 
+## Known Vulnerability 
 big issue with java script vulnerabilitys as of rn but im planing to get code done then switch to python which is more secure than Js.
 Because people can debug js gets fixed soon!
