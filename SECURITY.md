@@ -16,5 +16,5 @@ currently being supported with security updates.
 So if theres any vulnerability please put it in issues on github
 
 ## Known Vulnerability 
-big issue with java script vulnerabilitys as of rn but im planing to get code done then switch to python which is more secure than Js.
+Big issue with java script vulnerabilitys as of rn but im planing to get code done then switch to python which is more secure than Js.
 Because people can debug js gets fixed soon!
