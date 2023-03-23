@@ -13,11 +13,8 @@ currently being supported with security updates.
 | none    | :x:                |
 
 ## Reporting a Vulnerability
+So if theres any vulnerability please put it in issues on github
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
-
-So there is a big issue with java script vulnerabilitys as of rn but im planing to get code done then switch to python which is more secure than Js
+## Known vulnerability 
+big issue with java script vulnerabilitys as of rn but im planing to get code done then switch to python which is more secure than Js.
+Because people can debug js gets fixed soon!
