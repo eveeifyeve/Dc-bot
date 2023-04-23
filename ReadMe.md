@@ -1,7 +1,7 @@
 # *UPDATE*
 
 *OUT OF DATE INFO*
-unfortantly the public has been closed for now but we working on a new codeing sytem called typescript. 
+unfortantly the public has been closed for now but we working on a new codeing.
 And this will be for the bot.
 second for is we working on an orgniszation repo that way we can have all projects there.
 I hope you understand the reasons why?
